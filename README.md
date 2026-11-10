@@ -1,4 +1,4 @@
-# 🧠 Llanquihue Tour – Desarrollo Orientado a Objetos I (Semana 3)
+# 🧠 Llanquihue Tour – Desarrollo Orientado a Objetos I (Sumativa 1)
 
 ## 👤 Autor del proyecto
 
