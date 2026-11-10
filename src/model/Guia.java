@@ -29,7 +29,7 @@ public class Guia extends Persona{
     //puede ser 0 (guía nuevo), pero no puede ser negativo
     public void setAniosExperiencia(int aniosExperiencia) {
         if (aniosExperiencia < 0) {
-            throw new IllegalArgumentException("Los años de esperiencia no pueden ser negativos");
+            throw new IllegalArgumentException("Los años de experiencia no pueden ser negativos");
         }
         this.aniosExperiencia = aniosExperiencia;
     }
