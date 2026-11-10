@@ -3,7 +3,7 @@
 ## 👤 Autor del proyecto
 
 * **Nombre completo:** Diego Peña Romero
-* * **Profesor:** Jorge Eduardo Carmona LLancavil
+* **Profesor:** Jorge Eduardo Carmona LLancavil
 * **Carrera:** Analista programador computacional
 * **Sede:** Campus Virtual // Duoc Online
 
